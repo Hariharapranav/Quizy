@@ -1,3 +1,2 @@
-# Quizy
-Quizy - Quiz Website
+# Quizy - Quiz Website
 https://hariharapranav.github.io/Quizy/
